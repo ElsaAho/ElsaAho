@@ -7,7 +7,7 @@
   # Helloo!
 </div>
 
-### _My name is Elsa Aho and I'm studyind at Gradia Viitaniemi to become a software developer._
+### _My name is Elsa Aho and I'm studying at Gradia Viitaniemi to become a software developer._
 * I've already used **Python** and **C#**
 * I've learned to **read code**, **write my own code**, **test code** and **make graphic code**
 * For coding I have used **Visual Studio Code** and **Visual Studio 2022**
