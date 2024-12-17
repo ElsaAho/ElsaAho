@@ -8,7 +8,7 @@
 </div>
 
 ### _My name is Elsa Aho and I'm studying at Gradia Viitaniemi to become a software developer._
-* I've already used **Python**, **C#**, **SQL** and **HTML**
+* I've already used **Python**, **C#**, **SQL**, **HTML** and **css**
 * I've learned to **read code**, **write my own code**, **test code** and **make graphic code**
 * For coding I have used **Visual Studio Code** and **Visual Studio 2022**
 * Here's a sudoku I've made: [Sudoku](https://github.com/ElsaAho/Sudoku.git)
