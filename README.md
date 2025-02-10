@@ -9,7 +9,7 @@
 
 ### _My name is Elsa Aho and I'm studying at Gradia Viitaniemi to become a software developer._
 * I've already used **Python**, **C#**, **SQL**, **HTML**, **CSS** and **Javascript**
-* I've learned to **read code**, **write code**, **test code** and **make graphic code**
+* I've learned to **read code**, **write code**, **test code**, **make graphic code** and **create web pages**
 * For coding I have used **Visual Studio Code** and **Visual Studio 2022**
 * Here's a sudoku I've made: [Sudoku](https://github.com/ElsaAho/Sudoku.git)
 
